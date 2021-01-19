@@ -27,8 +27,8 @@
     align-content: center;    
 }
 .btn-contact {    
-    margin-top: 100px;
-    margin-bottom: 100px;
+    margin-top: 500px;
+    margin-bottom: 500px;
     border-radius: initial;
     font-size: 18px;
 }
@@ -42,6 +42,7 @@
 
 .img-container {    
     width: 100%;
+    margin-bottom: 50px;
 }
 .img-container img {
     width: 100%;
